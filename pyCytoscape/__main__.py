@@ -1,6 +1,5 @@
 from argparse import ArgumentParser
 import pandas as pd
-import py4cytoscape as p4c
 
 from .cytoscape import Cytoscape
 
